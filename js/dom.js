@@ -30,7 +30,7 @@ $parrafo.setAttribute("id","p2")
 
  $agregarParrafo.addEventListener("click", addParrafo)
 
-
+/*FRAGMENTOS */
  let dias = ['lunes', 'martes',' miercoles','jueves','viernes','sabado','domingo']
 
 const $section2 = document.querySelector(".flex-section2");
